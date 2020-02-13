@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Geovani A. Montoya"
+title                    : "Geovani A. Montoya's Data Science Porfolio (Under Construction)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Geovani A. Montoya"
@@ -110,7 +110,7 @@ author:
   name             : "Geovani Alexander Montoya"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Financial Services Professional and remote MS student in Computational Finance & Risk Management at the University of Washington, Seattle."
-  location         : "Seattle, Washington"
+  location         : "Seattle, WA"
   email            : "gamontoy@uw.edu"
   links:
     - label: "gamontoy@uw.edu"
