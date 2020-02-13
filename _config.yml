@@ -114,10 +114,10 @@ author:
   email            : "gamontoy@uw.edu"
   github           : "geovani-montoya"
   links:
-    - label: "gamontoy@uw.edu"
+    - label: "email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "geovani-montoya.github.io"
+    - label: "website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "twitter"
@@ -126,7 +126,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "geovani-montoya"
+    - label: "github"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
