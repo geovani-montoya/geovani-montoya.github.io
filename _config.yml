@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Geovani A. Montoya's Data Science Porfolio (Under Construction)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Geovani A. Montoya"
+name                     : "Geovani A. Montoya's Data Science Porfolio (Under Construction)"
 description              : "Data Science Porfolio (Under Construction)"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
