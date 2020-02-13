@@ -112,6 +112,7 @@ author:
   bio              : "Financial Services Professional and remote MS student in Computational Finance & Risk Management at the University of Washington, Seattle."
   location         : "Seattle, WA"
   email            : "gamontoy@uw.edu"
+  github           : "geovani-montoya"
   links:
     - label: "gamontoy@uw.edu"
       icon: "fas fa-fw fa-envelope-square"
@@ -119,7 +120,7 @@ author:
     - label: "geovani-montoya.github.io"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
