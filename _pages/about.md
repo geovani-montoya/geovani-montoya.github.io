@@ -6,4 +6,4 @@ header:
 ---
 This is a test. I am still working on this website
 
-<img src="{{ site.url }}{{ site.baseurl}}/images/timeline1.png" alt="vc timeline" height="1000" width="1000">
+<img src="{{ site.url }}{{ site.baseurl}}/images/timeline1.png" alt="vc timeline" height="2000" width="2000">
