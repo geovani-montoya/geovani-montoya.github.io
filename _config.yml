@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" #"default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcom to Geovani A. Montoya's Porfolio (Under Construction)"
+title                    : "Welcome to Geovani A. Montoya's Porfolio Site"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "(Under Construction)" # site tagline that appears below site title in masthead
 name                     : "Geovani A. Montoya's Data Science Porfolio (Under Construction)"
 description              : "Data Science Porfolio (Under Construction)"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
